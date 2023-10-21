@@ -1,0 +1,1266 @@
+Welcome	O
+
+Welcome	O
+to	O
+the	O
+webpage	O
+for	O
+North	B-ORG
+American	I-ORG
+Chapter	I-ORG
+of	I-ORG
+the	I-ORG
+Association	I-ORG
+for	I-ORG
+Computational	I-ORG
+Linguistics	I-ORG
+-	O
+Human	B-ORG
+Language	I-ORG
+Technologies	I-ORG
+(NAACL	I-ORG
+HLT)	I-ORG
+2009	O
+conference.	O
+
+Announcements	O
+
+The	O
+submission	O
+deadline	O
+for	O
+full	O
+papers	O
+is	O
+11.59pm,	O
+PST,	O
+December	O
+1st	O
+2008.	O
+Papers	O
+should	O
+be	O
+submitted	O
+at	O
+https://www.softconf.com/naacl-hlt09/papers	O
+
+Events	O
+
+Tutorials,	O
+May	O
+31	O
+
+Main	O
+Conference,	O
+June	O
+1-3	O
+
+Workshops,	O
+June	O
+4-5	O
+
+Conference	O
+Committee	O
+
+General	O
+Conference	O
+Chair	O
+
+*	O
+Mari	B-PER
+Ostendorf	I-PER
+,	O
+University	B-ORG
+of	I-ORG
+Washington	I-ORG
+
+Program	O
+Committee	O
+Chairs	O
+
+*	O
+Michael	B-PER
+Collins	I-PER
+,	O
+Massachusetts	B-ORG
+Institute	I-ORG
+of	I-ORG
+Technology	I-ORG
+(NLP)	O
+
+*	O
+Lucy	B-PER
+Vanderwende	I-PER
+,	O
+Microsoft	B-ORG
+(NLP)	O
+
+*	O
+Doug	B-PER
+Oard	I-PER
+,	O
+University	B-ORG
+of	I-ORG
+Maryland	I-ORG
+(IR)	O
+
+*	O
+Shri	B-PER
+Narayanan	I-PER
+,	O
+University	B-ORG
+of	I-ORG
+Southern	I-ORG
+California	I-ORG
+(Speech)	O
+
+Local	O
+Arrangement	O
+Co-Chairs	O
+
+*	O
+James	B-PER
+Martin	I-PER
+,	O
+University	B-ORG
+of	I-ORG
+Colorado	I-ORG
+at	I-ORG
+Boulder	I-ORG
+
+*	O
+[	O
+Martha	O
+Palmer	O
+]	O
+,	O
+University	B-ORG
+of	I-ORG
+Colorado	I-ORG
+at	I-ORG
+Boulder	I-ORG
+
+Publicitiy	O
+Chairs	O
+
+*	O
+Matthew	B-PER
+Stone	I-PER
+(	O
+Rutgers	B-ORG
+)	O
+
+*	O
+Gokhan	B-PER
+Tur	I-PER
+(	O
+SRI	B-ORG
+)	O
+
+*	O
+Diana	B-PER
+Inkpen	I-PER
+(	O
+U	B-ORG
+Ottawa	I-ORG
+)	O
+
+Publications	O
+Chairs	O
+
+*	O
+Christy	B-PER
+Doran	I-PER
+(	O
+MITRE	B-ORG
+)	O
+
+*	O
+Eric	B-PER
+Ringger	I-PER
+(	O
+BYU	B-ORG
+)	O
+
+Tutorials	O
+Chairs	O
+
+*	O
+Ciprian	B-PER
+Chelba	I-PER
+(	O
+Google	B-ORG
+)	O
+
+*	O
+Paul	B-PER
+Kantor	I-PER
+(	O
+Rutgers	B-ORG
+)	O
+
+*	O
+Brian	B-PER
+Roark	I-PER
+(	O
+OHSU	B-ORG
+)	O
+
+Workshops	O
+Chairs	O
+
+*	O
+Mark	B-PER
+Hasegawa-Johnson	I-PER
+(	O
+UIUC	B-ORG
+),	O
+
+*	O
+Nizar	B-PER
+Habash	I-PER
+(	O
+Columbia	B-ORG
+)	O
+
+Student	O
+research	O
+conference	O
+Chairs	O
+
+*	O
+Anoop	B-PER
+Sarkar	I-PER
+(	O
+Simon	B-ORG
+Fraser	I-ORG
+U	I-ORG
+)	O
+
+*	O
+Carolyn	B-PER
+Rose	I-PER
+(	O
+CMU	B-ORG
+)	O
+
+Student	O
+Doctoral	O
+Consortium	O
+Co-Chairs	O
+
+*	O
+Svetlana	B-PER
+Stenchikova	I-PER
+(	O
+Stony	B-ORG
+Brook	I-ORG
+University	I-ORG
+)	O
+-	O
+Speech	O
+
+*	O
+Ulrich	B-PER
+Germann	I-PER
+(	O
+University	B-ORG
+of	I-ORG
+Toronto	I-ORG
+)	O
+-	O
+NLP	O
+
+*	O
+Chirag	B-PER
+Shah	I-PER
+(	O
+University	B-ORG
+of	I-ORG
+North	I-ORG
+Carolina	I-ORG
+)	O
+-	O
+Information	O
+Retrieval	O
+
+Demo	O
+Chairs	O
+
+*	O
+Fred	B-PER
+Popowich	I-PER
+(	O
+U	B-ORG
+Alberta	I-ORG
+)	O
+
+*	O
+Michael	B-PER
+Johnston	I-PER
+(	O
+AT&T	B-ORG
+)	O
+
+Sponsorship	O
+Chairs	O
+
+*	O
+Nicolas	B-PER
+Nicolov	I-PER
+(	O
+JD	B-ORG
+Powers	I-ORG
+)	O
+
+*	O
+Hitoshi	B-PER
+Isahara	I-PER
+(	O
+NICT	B-ORG
+)	O
+
+*	O
+Philipp	B-PER
+Koehn	I-PER
+(	O
+U	B-ORG
+Edinburgh	I-ORG
+)	O
+
+*	O
+Josef	B-PER
+van	I-PER
+Genabith	I-PER
+(	O
+Dublin	B-ORG
+City	I-ORG
+U	I-ORG
+)	O
+
+Venue	O
+
+Conference	O
+
+The	O
+conference	O
+will	O
+be	O
+held	O
+at	O
+the	O
+University	B-ORG
+of	I-ORG
+Colorado	I-ORG
+at	I-ORG
+Boulder	I-ORG
+
+Accomodations	O
+
+Millennium	O
+Harvest	O
+House	O
+
+Reserve	O
+prior	O
+to	O
+May	O
+2nd	O
+
+Rate:	O
+TBD	O
+
+1-800-545-6285	O
+
+http://millenniumhotels.com/millenniumboulder/	O
+
+Reservation	O
+Links	O
+
+*	O
+Government	O
+Block	O
+
+*	O
+Non-Government	O
+Block	O
+
+Contact	O
+Us	O
+
+For	O
+additional	O
+information	O
+contact	O
+us	O
+at	O
+naaclhlt2009@gmail.com.	O
+
+For	O
+questions	O
+related	O
+to	O
+paper	O
+submissions,	O
+contact:	O
+naacl-hlt09@csail.mit.edu	O
+
+Welcome	O
+to	O
+ACL-08:	B-ORG
+HLT	I-ORG
+!	O
+
+ACL-08:	B-ORG
+HLT	I-ORG
+takes	O
+place	O
+at	O
+the	O
+Hyatt	B-LOC
+Regency	I-LOC
+Hotel	I-LOC
+in	O
+downtown	O
+Columbus,	B-LOC
+Ohio	I-LOC
+.	O
+It	O
+combines	O
+the	O
+Annual	B-ORG
+Meeting	I-ORG
+of	I-ORG
+the	I-ORG
+Association	I-ORG
+for	I-ORG
+Computational	I-ORG
+Linguistics	I-ORG
+(ACL)	I-ORG
+with	O
+the	O
+Human	B-ORG
+Language	I-ORG
+Technology	I-ORG
+Conference	I-ORG
+(HLT)	I-ORG
+of	O
+the	O
+North	B-ORG
+American	I-ORG
+Chapter	I-ORG
+of	I-ORG
+the	I-ORG
+ACL	I-ORG
+.	O
+The	O
+conference	O
+covers	O
+a	O
+broad	O
+spectrum	O
+of	O
+disciplines	O
+working	O
+towards	O
+enabling	O
+intelligent	O
+systems	O
+to	O
+interact	O
+with	O
+humans	O
+using	O
+natural	O
+language,	O
+and	O
+towards	O
+enhancing	O
+human-human	O
+communication	O
+through	O
+services	O
+such	O
+as	O
+speech	O
+recognition,	O
+automatic	O
+translation,	O
+information	O
+retrieval,	O
+text	O
+summarization,	O
+and	O
+information	O
+extraction.	O
+
+The	O
+ACL	B-ORG
+is	O
+proud	O
+to	O
+present	O
+invited	O
+talks	O
+by	O
+Marc	B-PER
+Swerts	I-PER
+of	O
+Tilburg	B-ORG
+University	I-ORG
+and	O
+Susan	B-PER
+Dumais	I-PER
+of	O
+Microsoft	B-ORG
+Research	I-ORG
+.	O
+
+June	O
+15,	O
+2008	O
+Conference	O
+Tutorials	O
+
+June	O
+16-18,	O
+2008	O
+Main	O
+Conference	O
+
+June	O
+19-20,	O
+2008	O
+Conference	O
+Workshops	O
+
+Welcome	O
+reception,	O
+Sun	O
+June	O
+15	O
+
+Student	O
+Lunch,	O
+Mon	O
+June	O
+16	O
+
+Banquet,	O
+Tues	O
+June	O
+17	O
+
+Accommodation	O
+details	O
+and	O
+travel	O
+information	O
+
+ACL-08:	B-ORG
+HLT	I-ORG
+Sponsors	O
+
+We	O
+gratefully	O
+acknowledge	O
+the	O
+following	O
+institutions	O
+for	O
+their	O
+generous	O
+sponsorship	O
+of	O
+this	O
+year's	O
+conference:	O
+
+Gold	O
+Level	O
+
+Silver	O
+Level	O
+
+Bronze	O
+Level	O
+
+Supporter	O
+Level	O
+
+Contributor	O
+
+IBM	B-ORG
+Research	I-ORG
+(Best	O
+Student	O
+Paper	O
+Award)	O
+
+Language	B-ORG
+Weaver	I-ORG
+(Conference	O
+Bag)	O
+
+University	B-ORG
+of	I-ORG
+Michigan	I-ORG
+School	I-ORG
+of	I-ORG
+Information	I-ORG
+
+General	O
+Conference	O
+Chair:	O
+
+Kathleen	B-PER
+McKeown	I-PER
+(	O
+Columbia	B-ORG
+University	I-ORG
+)	O
+acl08chair@ling.osu.edu	O
+
+Program	O
+Co-Chairs:	O
+
+Johanna	B-PER
+D.	I-PER
+Moore	I-PER
+(	O
+University	B-ORG
+of	I-ORG
+Edinburgh	I-ORG
+)	O
+J.Moore@ed.ac.uk	O
+
+Simone	B-PER
+Teufel	I-PER
+(	O
+Cambridge	B-ORG
+University	I-ORG
+)	O
+sht25@cl.cam.ac.uk	O
+
+James	B-PER
+Allan	I-PER
+(	O
+University	B-ORG
+of	I-ORG
+Massachusetts	I-ORG
+,	O
+Amherst	B-LOC
+)	O
+allan@cs.umass.edu	O
+
+Sadaoki	B-PER
+Furui	I-PER
+(	O
+Tokyo	B-ORG
+Institute	I-ORG
+of	I-ORG
+Technology	I-ORG
+,	O
+Japan	B-LOC
+)	O
+furui@cs.titech.ac.jp	O
+
+Workshop:	O
+
+Ming	B-PER
+Zhou	I-PER
+(	O
+Microsoft	B-ORG
+Research	I-ORG
+China	B-LOC
+)	O
+mingzhou@microsoft.com	O
+
+Tutorials:	O
+
+Ani	B-PER
+Nenkova	I-PER
+(	O
+Univ	B-ORG
+of	I-ORG
+Pennsylvania	I-ORG
+,	O
+USA	B-LOC
+)	O
+nenkova@seas.upenn.edu	O
+
+Marilyn	B-PER
+Walker	I-PER
+(	O
+Univ	B-ORG
+of	I-ORG
+Sheffield	I-ORG
+,	O
+UK	B-LOC
+)	O
+m.a.walker@sheffield.ac.uk	O
+
+Eugene	B-PER
+Agichtein	I-PER
+(	O
+Emory	B-ORG
+University	I-ORG
+,	O
+USA	B-LOC
+)	O
+eugene@mathcs.emory.edu	O
+
+Demos:	O
+
+Jimmy	B-PER
+Lin	I-PER
+(	O
+University	B-ORG
+of	I-ORG
+Maryland	I-ORG
+)	O
+jimmylin@umd.edu	O
+
+Student	O
+Co-Chairs:	O
+
+Faculty	O
+rep:	O
+Jan	B-PER
+Wiebe	I-PER
+(	O
+University	B-ORG
+of	I-ORG
+Pittsburgh	I-ORG
+)	O
+wiebe@cs.pitt.edu	O
+
+Student	O
+NL:	O
+Wolfgang	B-PER
+Maier	I-PER
+(	O
+U	B-ORG
+of	I-ORG
+Tubingen	I-ORG
+,	O
+Germany	B-LOC
+)	O
+wo.maier@uni-tuebingen.de	O
+
+Student	O
+Speech:	O
+Ebru	B-PER
+Arisoy	I-PER
+(	O
+Bogazici	B-ORG
+University	I-ORG
+,	O
+Turkey	B-LOC
+)	O
+arisoyeb@boun.edu.tr	O
+
+Student	O
+IR:	O
+Keisuke	B-PER
+Inoue	I-PER
+(	O
+Syracuse	B-ORG
+University	I-ORG
+,	O
+USA	B-LOC
+)	O
+kinoue@syr.edu	O
+
+Local	O
+Arrangements:	O
+
+Chris	B-PER
+Brew	I-PER
+cbrew@ling.osu.edu	O
+
+Donna	B-PER
+Byron	I-PER
+dbyron@cse.osu.edu	O
+
+Eric	B-PER
+Fosler-Lussier	I-PER
+fosler@cse.osu.edu	O
+
+Detmar	B-PER
+Meurers	I-PER
+dm@ling.osu.edu	O
+
+Michael	B-PER
+White	I-PER
+mwhite@ling.osu.edu	O
+
+DJ	B-PER
+Hovermale	I-PER
+acl08local@ling.osu.edu	O
+(Webmaster)	O
+
+back	O
+to	O
+top	O
+
+Copyright	O
+©	O
+2007	O
+The	O
+Ohio	B-ORG
+State	I-ORG
+University	I-ORG
+
+A	O
+big	O
+welcome	O
+from	O
+Gary	B-PER
+Sims	I-PER
+
+This	O
+is	O
+Gary	B-PER
+'s	O
+homepage	O
+and	O
+it	O
+is	O
+not	O
+exciting	O
+in	O
+anyway	O
+whatsoever	O
+and	O
+its	O
+brief!	O
+
+All	O
+the	O
+real	O
+activity	O
+happens	O
+over	O
+on	O
+my	O
+blog:	O
+Simo's	O
+Sagacity	O
+(The	O
+quality	O
+of	O
+keen	O
+and	O
+farsighted	O
+penetration	O
+and	O
+judgment).	O
+
+I	O
+have	O
+a	O
+web	O
+directory	O
+and	O
+also	O
+if	O
+you	O
+are	O
+intrested	O
+I	O
+have	O
+some	O
+bookmarks	O
+and	O
+a	O
+page	O
+of	O
+interesting	O
+links.	O
+
+You	O
+can	O
+email	O
+me	O
+on	O
+gary	O
+at	O
+garysims	O
+dot	O
+co	O
+dot	O
+uk	O
+or	O
+at	O
+gmail.com	O
+(see	O
+bottom	O
+of	O
+page)	O
+
+You	O
+can	O
+download	O
+my	O
+PGP	O
+Public	O
+key	O
+from	O
+here.	O
+
+If	O
+I	O
+have	O
+helped	O
+you	O
+in	O
+some	O
+way	O
+and	O
+you	O
+want	O
+to	O
+show	O
+your	O
+appreciation	O
+then	O
+you	O
+can	O
+donate	O
+$5	O
+to	O
+me	O
+here.	O
+
+Brevity	O
+
+My	O
+liege,	O
+and	O
+madam,	O
+to	O
+expostulate	O
+what	O
+majesty	O
+should	O
+be,	O
+what	O
+duty	O
+is,	O
+why	O
+day	O
+is	O
+day,	O
+night	O
+night,	O
+and	O
+time	O
+is	O
+time,	O
+were	O
+nothing	O
+but	O
+to	O
+waste	O
+night,	O
+day	O
+and	O
+time.	O
+Therefore,	O
+since	O
+brevity	O
+is	O
+the	O
+soul	O
+of	O
+wit,	O
+and	O
+tediousness	O
+the	O
+limbs	O
+and	O
+outward	O
+flourishes,	O
+I	O
+will	O
+be	O
+brief.	O
+
+Links	O
+
+Bible	O
+Study	O
+Tool	O
+
+Linux	O
+Operating	O
+System	O
+
+New	O
+Covenant	O
+Workshop	O
+
+Free	O
+Press	O
+Release	O
+Service	O
+
+Gary	B-PER
+'s	O
+page	O
+over	O
+at	O
+GooglePages	O
+
+Here	O
+is	O
+a	O
+little	O
+about	O
+me	O
+:)	O
+
+I	O
+(Known	O
+as	O
+"	O
+Kannan	B-PER
+"	O
+to	O
+family	O
+and	O
+friends)	O
+am	O
+the	O
+eldest	O
+of	O
+the	O
+three	O
+children	O
+of	O
+T.S.Balakrishnan	B-PER
+{Retired	O
+from	O
+Shaw	B-ORG
+Wallace	I-ORG
+,	O
+India	B-ORG
+Pvt.	I-ORG
+Ltd.	I-ORG
+and	O
+now	O
+settled	O
+in	O
+Madras	B-LOC
+}	O
+and	O
+[	O
+Raji	O
+]	O
+{home	O
+maker}.	O
+Born	O
+on	O
+the	O
+13th	O
+of	O
+June	O
+1968,	O
+I	O
+spent	O
+my	O
+childhood	O
+in	O
+Madras	B-LOC
+.	O
+
+I	O
+had	O
+my	O
+early	O
+schooling	O
+at	O
+"Chinmaya	O
+Vidyalaya"	O
+in	O
+Madras	B-LOC
+,	O
+in	O
+the	O
+state	O
+of	O
+Tamil	B-LOC
+Nadu	I-LOC
+.	O
+I	O
+graduated	O
+from	O
+the	O
+Sri	B-ORG
+Venkateswara	I-ORG
+College	I-ORG
+of	I-ORG
+Engineering	I-ORG
+with	O
+a	O
+Bachelors	O
+in	O
+Electrical	O
+and	O
+Electronics.	O
+I	O
+then	O
+completed	O
+a	O
+Masters	O
+in	O
+"Electrical	O
+and	O
+Computer	O
+Engineering"	O
+and	O
+obtained	O
+my	O
+second	O
+Masters	O
+in	O
+"System	O
+Science"	O
+from	O
+the	O
+Louisiana	B-ORG
+State	I-ORG
+University	I-ORG
+,	O
+Baton	B-LOC
+Rouge,	I-LOC
+La.,	I-LOC
+USA.	I-LOC
+
+I	O
+wasworking	O
+as	O
+a	O
+"Computer	O
+Analyst"	O
+in	O
+the	O
+College	B-ORG
+of	I-ORG
+Education	I-ORG
+,	O
+at	O
+the	O
+Louisiana	B-ORG
+State	I-ORG
+Universtiy	I-ORG
+.	O
+I	O
+have	O
+since	O
+moved	O
+to	O
+Tulsa	B-LOC
+in	O
+the	O
+Native	O
+American	O
+State	O
+of	O
+Oklahoma	B-LOC
+.	O
+I	O
+now	O
+work	O
+for	O
+SPR	B-ORG
+Inc	I-ORG
+in	I-ORG
+Tulsa	I-ORG
+as	O
+an	O
+Information	O
+Systems	O
+Consultant.	O
+
+My	O
+sister,	O
+Shobha	B-PER
+married	O
+R.Sriram	B-PER
+on	O
+Feb	O
+2,	O
+1995,	O
+and	O
+is	O
+now	O
+settled	O
+in	O
+Madras	B-LOC
+.	O
+They	O
+share	O
+a	O
+little	O
+bundle	O
+of	O
+joy	O
+in	O
+their	O
+daughter,	O
+Sanjana	B-PER
+.	O
+
+My	O
+brother	O
+Vinod	B-PER
+is	O
+pursuing	O
+his	O
+MBA	O
+from	O
+Xavier	B-ORG
+Institute	I-ORG
+of	I-ORG
+Management	I-ORG
+,	O
+Bhuvaneshwar	B-LOC
+{[LOC	O
+Orissa	O
+]	O
+},	O
+besides	O
+working	O
+in	O
+Johnson	B-ORG
+&	I-ORG
+Johnson	I-ORG
+,	O
+Madras	B-LOC
+.	O
+
+I	O
+married	O
+Priya	B-PER
+on	O
+January	O
+26,	O
+1996	O
+at	O
+Bangalore,	B-LOC
+India	I-LOC
+.	O
+
+My	O
+hobbies	O
+include	O
+traveling,	O
+music,	O
+movies,	O
+sports	O
+and	O
+good	O
+food!!!!!!!	O
+

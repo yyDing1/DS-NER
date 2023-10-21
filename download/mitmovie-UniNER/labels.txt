@@ -1,0 +1,12 @@
+Actor
+Plot
+Opinion
+Award
+Year
+Genre
+Origin
+Director
+Soundtrack
+Relationship
+Character_Name
+Quote

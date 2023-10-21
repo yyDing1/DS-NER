@@ -1,0 +1,8 @@
+Rating
+Amenity
+Location
+Restaurant_Name
+Price
+Hours
+Dish
+Cuisine
